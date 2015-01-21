@@ -1,0 +1,77 @@
+
+table {
+    border:2px solid #EDF7F7;
+	height: 300px;
+	width: 300px;
+	box-shadow: inset 0 0 22px #9EB0CE;
+}
+
+td {
+	
+	margin-right: 3px;
+	font-size: 47px;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    text-shadow: 0 0 3px #9EB0CE, 0 0 5px #FFFFFF;
+
+}
+
+div {
+	border: 5px double #3A5467;
+
+
+}
+h1 {
+	font-family: monospace;
+	font-size: 52px;
+	color: rgba(24, 101, 111, .9);
+	text-shadow: 0 0 3px #9EB0CE, 0 0 5px #FFFFFF;
+}
+
+h2 {
+	font-family: monospace;
+	font-size: 28px;
+	font-variant: small-caps;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+}
+
+button {
+    background-color: transparent;
+    font-size: 23px;
+    font-family: monospace;
+    color:white;
+    border:2px double #556C80;
+
+}
+
+.table {
+
+	height: 100px;
+	width: 420px;
+}
+.border {
+	border-radius: 10px;
+}
+.cell {
+
+	text-align: center;
+	padding: 5px;
+	height: 100px;
+	width: 300px;
+	border:1px solid #9EB0CE;
+
+}
+.player {
+	height: 100px;
+	width: 170px;
+	position: center;
+	float: right;
+	border-radius: 15px;
+	background: rgba(78, 177, 223, .1);
+}
+.right {
+}
+
+
